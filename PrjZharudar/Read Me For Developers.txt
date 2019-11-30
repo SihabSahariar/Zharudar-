@@ -1,0 +1,3 @@
+Firstly you have to register all the components. For that, Unzip Components.zip and goto the Components folder then Run "Zharudar Components.exe" (Run as administrator).
+Then Open the project1.vbp with Vb6. Thanks you
+-Sihab Sahariar

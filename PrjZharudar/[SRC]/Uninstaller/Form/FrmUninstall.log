@@ -1,0 +1,12 @@
+Line 22: Class Uninstaller2005.XPButton of control LblBatal was not a loaded control class.
+Line 41: Class Uninstaller2005.XPButton of control LblUninstall was not a loaded control class.
+Line 60: Class Uninstaller2005.XPButton of control LblBersihkan was not a loaded control class.
+Line 28: The property name _ExtentX in LblBatal is invalid.
+Line 29: The property name _ExtentY in LblBatal is invalid.
+Line 30: The property name Caption in LblBatal is invalid.
+Line 47: The property name _ExtentX in LblUninstall is invalid.
+Line 48: The property name _ExtentY in LblUninstall is invalid.
+Line 49: The property name Caption in LblUninstall is invalid.
+Line 66: The property name _ExtentX in LblBersihkan is invalid.
+Line 67: The property name _ExtentY in LblBersihkan is invalid.
+Line 68: The property name Caption in LblBersihkan is invalid.
