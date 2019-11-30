@@ -3,26 +3,26 @@
 
 Zharudar 1.9
 -----------------------
--Clean Junk Files
--Ram & PC Booster
--Strong File Crypter
--Auto Shutdown
--Autorun Remover
--Uninstaller
--All Necessary System Tools 
--User Friendly UI & Updates
+- Clean Junk Files
+- Ram & PC Booster
+- Strong File Crypter
+- Auto Shutdown
+- Autorun Remover
+- Uninstaller
+- All Necessary System Tools 
+- User Friendly UI & Updates
 
 Screenshot
 ---------------
-<img src="\ss\1.jpg>
+<img src="ss\1.jpg>
           
-<img src="\ss\2.jpg>
+<img src="ss\2.jpg>
           
-<img src="\ss\3.jpg>
+<img src="ss\3.jpg>
           
-<img src="\ss\4.jpg>  
+<img src="ss\4.jpg>  
           
-<img src="\ss\5.jpg>
+<img src="ss\5.jpg>
           
 Dowload
 ------------
