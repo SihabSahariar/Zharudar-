@@ -14,15 +14,15 @@ Zharudar 1.9
 
 Screenshot
 ---------------
-<img src="ss\1.jpg>
+<img src="ss/1.jpg>
           
-<img src="ss\2.jpg>
+<img src="ss/2.jpg>
           
-<img src="ss\3.jpg>
+<img src="ss/3.jpg>
           
-<img src="ss\4.jpg>  
+<img src="ss/4.jpg>  
           
-<img src="ss\5.jpg>
+<img src="ss/5.jpg>
           
 Dowload
 ------------
